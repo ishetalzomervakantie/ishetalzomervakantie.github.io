@@ -24,6 +24,7 @@ button {
     cursor: pointer;
     position: relative;
     background-color: white;
+    color: black;
 }
 
 button::after {
