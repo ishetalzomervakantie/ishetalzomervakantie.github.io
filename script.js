@@ -2,9 +2,7 @@ var date = new Date()
 
 var date_n_f = new Date(2022, 6, 11)
 var date_n_l = new Date(2022, 7, 19)
-
-//if (date >= date_n_f && date <= date_n_l)
-    
+   
 function north() {
     document.getElementById("north").style.backgroundColor = "white";
     document.getElementById("mid").style.backgroundColor = "transparent";
