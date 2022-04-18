@@ -24,7 +24,6 @@ button {
     cursor: pointer;
     position: relative;
     background-color: white;
-    color: black;
 }
 
 button::after {
@@ -51,4 +50,12 @@ button:hover::after {
     top: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+}
+
+#visitscounter {
+    font-size: 12px;
+    font: 600 1.5rem/1.25 'Montserrat', sans-serif;
+    position: absolute;
+    bottom: 0.4%;
+    margin: 0.4%;
 }
