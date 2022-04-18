@@ -1,2 +1,2 @@
 # Is het al zomervakantie?
-Is het al zomervakantie is een site gemaakt door Sinnk
+Is het al zomervakantie is een site gemaakt door Voeb
