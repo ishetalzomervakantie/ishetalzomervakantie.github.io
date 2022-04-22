@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:600&display=swap');
 
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
 body {
     z-index: -20;
+    
 }
 
 #nav {
@@ -11,11 +16,11 @@ body {
 }
 
 button {
-    margin: 50px;
+    margin: 2.6%;
     font-family: inherit;
-    font: 600 1.5rem/1.25 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     width: 27.8%;
-    font-size: 20px;
+    font-size: 100%;
     font-weight: 200;
     letter-spacing: 1px;
     padding: 13px 50px 13px;
@@ -52,9 +57,9 @@ button:hover::after {
     transform: translate(-50%, -50%);
 }
 
-#visitscounter {
-    font-size: 12px;
-    font: 600 1.5rem/1.25 'Montserrat', sans-serif;
+#visits_p {
+    font-size: 100%;
+    font-weight: 200;
     position: absolute;
     bottom: 0.4%;
     margin: 0.4%;
