@@ -47,7 +47,7 @@ button::after {
 
 button:hover::after {
     top: 7px;
-    left: -11px;
+    left: 11px;
 }
 
 #date {
